@@ -1,0 +1,10 @@
+this is a file
+//this line is commented
+the line above this one should not say "this line is commented" /*this
+is another type */
+of comment
+this should/*n't
+*/
+print
+print this
+only these lines should have printed //after taking out the comments

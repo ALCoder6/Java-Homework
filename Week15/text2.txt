@@ -1,0 +1,8 @@
+
+this is a file
+the line above this one should not say "this line is commented" 
+of comment
+this should
+print
+print this
+only these lines should have printed 
